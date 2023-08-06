@@ -2,7 +2,7 @@
 title: slide model
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: league
+theme: simple
 highlightTheme: tomorrow-night-bright
 revealOptions:
   width: 1520
@@ -15,8 +15,6 @@ revealOptions:
 
 
 # slide model
-
----
 
 By @Briscky
 
